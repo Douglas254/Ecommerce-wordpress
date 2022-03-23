@@ -119,7 +119,7 @@ public function __construct(){
 
 		
 
-		session_start();
+		// session_start();
 
         // Basic settings
 
@@ -483,7 +483,7 @@ if ($_GET['transactionType']=='checkout') {
 
 	<input type="hidden" value="" id="txid"/>	
 
-	<?php echo $_SESSION['response_status']; ?>
+	<!-- <?php echo $_SESSION['response_status']; ?> -->
 
 	<div id="commonname"></div>
 
