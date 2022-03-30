@@ -1,0 +1,172 @@
+2022-03-23T15:46:42+00:00 CRITICAL Uncaught WP2Static\WP2StaticException: Looks like you're trying to activate WP2Static from source code, without compiling it first. Please see https://wp2static.com/compiling-from-source for assistance. in F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static-7.1.6-seowings\wp2static.php:29
+Stack trace:
+#0 F:\Xampp\htdocs\symatechlabsltd\wp-admin\includes\plugin.php(2288): include_once()
+#1 F:\Xampp\htdocs\symatechlabsltd\wp-admin\includes\plugin.php(659): plugin_sandbox_scrape('wp2static-7.1.6...')
+#2 F:\Xampp\htdocs\symatechlabsltd\wp-admin\plugins.php(58): activate_plugin('wp2static-7.1.6...', 'http://127.0.0....', false)
+#3 {main}
+  thrown in F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static-7.1.6-seowings\wp2static.php on line 29
+
+2022-03-23T15:46:44+00:00 CRITICAL Uncaught WP2Static\WP2StaticException: Looks like you're trying to activate WP2Static from source code, without compiling it first. Please see https://wp2static.com/compiling-from-source for assistance. in F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static-7.1.6-seowings\wp2static.php:29
+Stack trace:
+#0 F:\Xampp\htdocs\symatechlabsltd\wp-admin\includes\plugin.php(2288): include_once()
+#1 F:\Xampp\htdocs\symatechlabsltd\wp-admin\plugins.php(192): plugin_sandbox_scrape('wp2static-7.1.6...')
+#2 {main}
+  thrown in F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static-7.1.6-seowings\wp2static.php on line 29
+
+2022-03-23T15:46:44+00:00 CRITICAL Uncaught WP2Static\WP2StaticException: Looks like you're trying to activate WP2Static from source code, without compiling it first. Please see https://wp2static.com/compiling-from-source for assistance. in F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static-7.1.6-seowings\wp2static.php:29
+Stack trace:
+#0 F:\Xampp\htdocs\symatechlabsltd\wp-admin\includes\plugin.php(2288): include_once()
+#1 F:\Xampp\htdocs\symatechlabsltd\wp-admin\plugins.php(192): plugin_sandbox_scrape('wp2static-7.1.6...')
+#2 {main}
+  thrown in F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static-7.1.6-seowings\wp2static.php on line 29
+
+2022-03-23T15:47:49+00:00 CRITICAL Uncaught WP2Static\WP2StaticException: Looks like you're trying to activate WP2Static from source code, without compiling it first. Please see https://wp2static.com/compiling-from-source for assistance. in F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static-7.1.6-seowings\wp2static.php:29
+Stack trace:
+#0 F:\Xampp\htdocs\symatechlabsltd\wp-admin\includes\plugin.php(2288): include_once()
+#1 F:\Xampp\htdocs\symatechlabsltd\wp-admin\includes\plugin.php(659): plugin_sandbox_scrape('wp2static-7.1.6...')
+#2 F:\Xampp\htdocs\symatechlabsltd\wp-admin\plugins.php(58): activate_plugin('wp2static-7.1.6...', 'http://127.0.0....', false)
+#3 {main}
+  thrown in F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static-7.1.6-seowings\wp2static.php on line 29
+
+2022-03-23T15:47:54+00:00 CRITICAL Uncaught WP2Static\WP2StaticException: Looks like you're trying to activate WP2Static from source code, without compiling it first. Please see https://wp2static.com/compiling-from-source for assistance. in F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static-7.1.6-seowings\wp2static.php:29
+Stack trace:
+#0 F:\Xampp\htdocs\symatechlabsltd\wp-admin\includes\plugin.php(2288): include_once()
+#1 F:\Xampp\htdocs\symatechlabsltd\wp-admin\plugins.php(192): plugin_sandbox_scrape('wp2static-7.1.6...')
+#2 {main}
+  thrown in F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static-7.1.6-seowings\wp2static.php on line 29
+
+2022-03-23T15:47:54+00:00 CRITICAL Uncaught WP2Static\WP2StaticException: Looks like you're trying to activate WP2Static from source code, without compiling it first. Please see https://wp2static.com/compiling-from-source for assistance. in F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static-7.1.6-seowings\wp2static.php:29
+Stack trace:
+#0 F:\Xampp\htdocs\symatechlabsltd\wp-admin\includes\plugin.php(2288): include_once()
+#1 F:\Xampp\htdocs\symatechlabsltd\wp-admin\plugins.php(192): plugin_sandbox_scrape('wp2static-7.1.6...')
+#2 {main}
+  thrown in F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static-7.1.6-seowings\wp2static.php on line 29
+
+2022-03-23T15:56:27+00:00 CRITICAL Uncaught UnexpectedValueException: RecursiveDirectoryIterator::__construct(F:/Xampp/htdocs/symatechlabsltd/wp-content/uploads/wp2static-processed-site): The system cannot find the file specifi (code: 2) in F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static-addon-zip\src\ZipArchiver.php:30
+Stack trace:
+#0 F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static-addon-zip\src\ZipArchiver.php(30): RecursiveDirectoryIterator->__construct('F:/Xampp/htdocs...', 4096)
+#1 F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static-addon-zip\src\Controller.php(87): WP2StaticZip\ZipArchiver->generateArchive('F:/Xampp/htdocs...')
+#2 F:\Xampp\htdocs\symatechlabsltd\wp-includes\class-wp-hook.php(307): WP2StaticZip\Controller->generateZip('F:/Xampp/htdocs...', 'wp2static-addon...')
+#3 F:\Xampp\htdocs\symatechlabsltd\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#4 F:\Xampp\htdocs\symatechlabsltd\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#5 F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static\src\Controller.php(640): do_action('wp2static_deplo...', 'F:/Xampp/htdocs...', 'wp2static-addon...')
+#6 F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static\src\Controller.php(730): WP2Static\Controller::wp2staticHeadless()
+#7 F:\Xampp\htdocs\symatechlabsltd\wp-includes\class-wp-hook.php(305): WP2Static\Controller::wp2staticRun()
+#8 F:\Xampp\htdocs\symatechlabsltd\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#9 F:\Xampp\htdocs\symatechlabsltd\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#10 F:\Xampp\htdocs\symatechlabsltd\wp-admin\admin-ajax.php(187): do_action('wp_ajax_wp2stat...')
+#11 {main}
+  thrown in F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static-addon-zip\src\ZipArchiver.php on line 30
+
+2022-03-23T15:57:37+00:00 CRITICAL Uncaught UnexpectedValueException: RecursiveDirectoryIterator::__construct(F:/Xampp/htdocs/symatechlabsltd/wp-content/uploads/wp2static-processed-site): The system cannot find the file specifi (code: 2) in F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static-addon-zip\src\ZipArchiver.php:30
+Stack trace:
+#0 F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static-addon-zip\src\ZipArchiver.php(30): RecursiveDirectoryIterator->__construct('F:/Xampp/htdocs...', 4096)
+#1 F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static-addon-zip\src\Controller.php(87): WP2StaticZip\ZipArchiver->generateArchive('F:/Xampp/htdocs...')
+#2 F:\Xampp\htdocs\symatechlabsltd\wp-includes\class-wp-hook.php(307): WP2StaticZip\Controller->generateZip('F:/Xampp/htdocs...', 'wp2static-addon...')
+#3 F:\Xampp\htdocs\symatechlabsltd\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#4 F:\Xampp\htdocs\symatechlabsltd\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#5 F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static\src\Controller.php(640): do_action('wp2static_deplo...', 'F:/Xampp/htdocs...', 'wp2static-addon...')
+#6 F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static\src\Controller.php(730): WP2Static\Controller::wp2staticHeadless()
+#7 F:\Xampp\htdocs\symatechlabsltd\wp-includes\class-wp-hook.php(305): WP2Static\Controller::wp2staticRun()
+#8 F:\Xampp\htdocs\symatechlabsltd\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#9 F:\Xampp\htdocs\symatechlabsltd\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#10 F:\Xampp\htdocs\symatechlabsltd\wp-admin\admin-ajax.php(187): do_action('wp_ajax_wp2stat...')
+#11 {main}
+  thrown in F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static-addon-zip\src\ZipArchiver.php on line 30
+
+2022-03-23T15:58:02+00:00 CRITICAL Uncaught UnexpectedValueException: RecursiveDirectoryIterator::__construct(F:/Xampp/htdocs/symatechlabsltd/wp-content/uploads/wp2static-processed-site): The system cannot find the file specifi (code: 2) in F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static-addon-zip\src\ZipArchiver.php:30
+Stack trace:
+#0 F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static-addon-zip\src\ZipArchiver.php(30): RecursiveDirectoryIterator->__construct('F:/Xampp/htdocs...', 4096)
+#1 F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static-addon-zip\src\Controller.php(87): WP2StaticZip\ZipArchiver->generateArchive('F:/Xampp/htdocs...')
+#2 F:\Xampp\htdocs\symatechlabsltd\wp-includes\class-wp-hook.php(307): WP2StaticZip\Controller->generateZip('F:/Xampp/htdocs...', 'wp2static-addon...')
+#3 F:\Xampp\htdocs\symatechlabsltd\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#4 F:\Xampp\htdocs\symatechlabsltd\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#5 F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static\src\Controller.php(640): do_action('wp2static_deplo...', 'F:/Xampp/htdocs...', 'wp2static-addon...')
+#6 F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static\src\Controller.php(730): WP2Static\Controller::wp2staticHeadless()
+#7 F:\Xampp\htdocs\symatechlabsltd\wp-includes\class-wp-hook.php(305): WP2Static\Controller::wp2staticRun()
+#8 F:\Xampp\htdocs\symatechlabsltd\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#9 F:\Xampp\htdocs\symatechlabsltd\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#10 F:\Xampp\htdocs\symatechlabsltd\wp-admin\admin-ajax.php(187): do_action('wp_ajax_wp2stat...')
+#11 {main}
+  thrown in F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static-addon-zip\src\ZipArchiver.php on line 30
+
+2022-03-23T15:58:54+00:00 CRITICAL Uncaught UnexpectedValueException: RecursiveDirectoryIterator::__construct(F:/Xampp/htdocs/symatechlabsltd/wp-content/uploads/wp2static-processed-site): The system cannot find the file specifi (code: 2) in F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static-addon-zip\src\ZipArchiver.php:30
+Stack trace:
+#0 F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static-addon-zip\src\ZipArchiver.php(30): RecursiveDirectoryIterator->__construct('F:/Xampp/htdocs...', 4096)
+#1 F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static-addon-zip\src\Controller.php(87): WP2StaticZip\ZipArchiver->generateArchive('F:/Xampp/htdocs...')
+#2 F:\Xampp\htdocs\symatechlabsltd\wp-includes\class-wp-hook.php(307): WP2StaticZip\Controller->generateZip('F:/Xampp/htdocs...', 'wp2static-addon...')
+#3 F:\Xampp\htdocs\symatechlabsltd\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#4 F:\Xampp\htdocs\symatechlabsltd\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#5 F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static\src\Controller.php(640): do_action('wp2static_deplo...', 'F:/Xampp/htdocs...', 'wp2static-addon...')
+#6 F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static\src\Controller.php(730): WP2Static\Controller::wp2staticHeadless()
+#7 F:\Xampp\htdocs\symatechlabsltd\wp-includes\class-wp-hook.php(305): WP2Static\Controller::wp2staticRun()
+#8 F:\Xampp\htdocs\symatechlabsltd\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#9 F:\Xampp\htdocs\symatechlabsltd\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#10 F:\Xampp\htdocs\symatechlabsltd\wp-admin\admin-ajax.php(187): do_action('wp_ajax_wp2stat...')
+#11 {main}
+  thrown in F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static-addon-zip\src\ZipArchiver.php on line 30
+
+2022-03-23T16:04:07+00:00 CRITICAL Uncaught UnexpectedValueException: RecursiveDirectoryIterator::__construct(F:/Xampp/htdocs/symatechlabsltd/wp-content/uploads/wp2static-processed-site): The system cannot find the file specifi (code: 2) in F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static-addon-zip\src\ZipArchiver.php:30
+Stack trace:
+#0 F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static-addon-zip\src\ZipArchiver.php(30): RecursiveDirectoryIterator->__construct('F:/Xampp/htdocs...', 4096)
+#1 F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static-addon-zip\src\Controller.php(87): WP2StaticZip\ZipArchiver->generateArchive('F:/Xampp/htdocs...')
+#2 F:\Xampp\htdocs\symatechlabsltd\wp-includes\class-wp-hook.php(307): WP2StaticZip\Controller->generateZip('F:/Xampp/htdocs...', 'wp2static-addon...')
+#3 F:\Xampp\htdocs\symatechlabsltd\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#4 F:\Xampp\htdocs\symatechlabsltd\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#5 F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static\src\Controller.php(640): do_action('wp2static_deplo...', 'F:/Xampp/htdocs...', 'wp2static-addon...')
+#6 F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static\src\Controller.php(730): WP2Static\Controller::wp2staticHeadless()
+#7 F:\Xampp\htdocs\symatechlabsltd\wp-includes\class-wp-hook.php(305): WP2Static\Controller::wp2staticRun()
+#8 F:\Xampp\htdocs\symatechlabsltd\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#9 F:\Xampp\htdocs\symatechlabsltd\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#10 F:\Xampp\htdocs\symatechlabsltd\wp-admin\admin-ajax.php(187): do_action('wp_ajax_wp2stat...')
+#11 {main}
+  thrown in F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static-addon-zip\src\ZipArchiver.php on line 30
+
+2022-03-23T16:07:52+00:00 CRITICAL Uncaught UnexpectedValueException: RecursiveDirectoryIterator::__construct(F:/Xampp/htdocs/symatechlabsltd/wp-content/uploads/wp2static-processed-site): The system cannot find the file specifi (code: 2) in F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static-addon-zip\src\ZipArchiver.php:30
+Stack trace:
+#0 F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static-addon-zip\src\ZipArchiver.php(30): RecursiveDirectoryIterator->__construct('F:/Xampp/htdocs...', 4096)
+#1 F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static-addon-zip\src\Controller.php(87): WP2StaticZip\ZipArchiver->generateArchive('F:/Xampp/htdocs...')
+#2 F:\Xampp\htdocs\symatechlabsltd\wp-includes\class-wp-hook.php(307): WP2StaticZip\Controller->generateZip('F:/Xampp/htdocs...', 'wp2static-addon...')
+#3 F:\Xampp\htdocs\symatechlabsltd\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#4 F:\Xampp\htdocs\symatechlabsltd\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#5 F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static\src\Controller.php(640): do_action('wp2static_deplo...', 'F:/Xampp/htdocs...', 'wp2static-addon...')
+#6 F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static\src\Controller.php(730): WP2Static\Controller::wp2staticHeadless()
+#7 F:\Xampp\htdocs\symatechlabsltd\wp-includes\class-wp-hook.php(305): WP2Static\Controller::wp2staticRun()
+#8 F:\Xampp\htdocs\symatechlabsltd\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#9 F:\Xampp\htdocs\symatechlabsltd\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#10 F:\Xampp\htdocs\symatechlabsltd\wp-admin\admin-ajax.php(187): do_action('wp_ajax_wp2stat...')
+#11 {main}
+  thrown in F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static-addon-zip\src\ZipArchiver.php on line 30
+
+2022-03-23T19:50:11+00:00 CRITICAL Uncaught UnexpectedValueException: RecursiveDirectoryIterator::__construct(F:/Xampp/htdocs/symatechlabsltd/wp-content/uploads/wp2static-processed-site): The system cannot find the file specifi (code: 2) in F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static-addon-zip\src\ZipArchiver.php:30
+Stack trace:
+#0 F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static-addon-zip\src\ZipArchiver.php(30): RecursiveDirectoryIterator->__construct('F:/Xampp/htdocs...', 4096)
+#1 F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static-addon-zip\src\Controller.php(87): WP2StaticZip\ZipArchiver->generateArchive('F:/Xampp/htdocs...')
+#2 F:\Xampp\htdocs\symatechlabsltd\wp-includes\class-wp-hook.php(307): WP2StaticZip\Controller->generateZip('F:/Xampp/htdocs...', 'wp2static-addon...')
+#3 F:\Xampp\htdocs\symatechlabsltd\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#4 F:\Xampp\htdocs\symatechlabsltd\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#5 F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static\src\Controller.php(640): do_action('wp2static_deplo...', 'F:/Xampp/htdocs...', 'wp2static-addon...')
+#6 F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static\src\Controller.php(730): WP2Static\Controller::wp2staticHeadless()
+#7 F:\Xampp\htdocs\symatechlabsltd\wp-includes\class-wp-hook.php(305): WP2Static\Controller::wp2staticRun()
+#8 F:\Xampp\htdocs\symatechlabsltd\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#9 F:\Xampp\htdocs\symatechlabsltd\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#10 F:\Xampp\htdocs\symatechlabsltd\wp-admin\admin-ajax.php(187): do_action('wp_ajax_wp2stat...')
+#11 {main}
+  thrown in F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static-addon-zip\src\ZipArchiver.php on line 30
+
+2022-03-23T19:50:34+00:00 CRITICAL Uncaught UnexpectedValueException: RecursiveDirectoryIterator::__construct(F:/Xampp/htdocs/symatechlabsltd/wp-content/uploads/wp2static-processed-site): The system cannot find the file specifi (code: 2) in F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static-addon-zip\src\ZipArchiver.php:30
+Stack trace:
+#0 F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static-addon-zip\src\ZipArchiver.php(30): RecursiveDirectoryIterator->__construct('F:/Xampp/htdocs...', 4096)
+#1 F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static-addon-zip\src\Controller.php(87): WP2StaticZip\ZipArchiver->generateArchive('F:/Xampp/htdocs...')
+#2 F:\Xampp\htdocs\symatechlabsltd\wp-includes\class-wp-hook.php(307): WP2StaticZip\Controller->generateZip('F:/Xampp/htdocs...', 'wp2static-addon...')
+#3 F:\Xampp\htdocs\symatechlabsltd\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#4 F:\Xampp\htdocs\symatechlabsltd\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#5 F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static\src\Controller.php(640): do_action('wp2static_deplo...', 'F:/Xampp/htdocs...', 'wp2static-addon...')
+#6 F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static\src\Controller.php(730): WP2Static\Controller::wp2staticHeadless()
+#7 F:\Xampp\htdocs\symatechlabsltd\wp-includes\class-wp-hook.php(305): WP2Static\Controller::wp2staticRun()
+#8 F:\Xampp\htdocs\symatechlabsltd\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#9 F:\Xampp\htdocs\symatechlabsltd\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#10 F:\Xampp\htdocs\symatechlabsltd\wp-admin\admin-ajax.php(187): do_action('wp_ajax_wp2stat...')
+#11 {main}
+  thrown in F:\Xampp\htdocs\symatechlabsltd\wp-content\plugins\wp2static-addon-zip\src\ZipArchiver.php on line 30
+
